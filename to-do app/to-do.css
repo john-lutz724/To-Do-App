@@ -1,0 +1,14 @@
+.todo{margin:auto;
+    background-color:white;
+    width: 300px;
+    height:600px;
+    border: 30px solid gray;
+    border-style:groove;
+    text-align:center;
+    overflow:auto;
+  }
+  
+  body{background-color:black;}
+    
+  .but{background-color:gray;}
+  
